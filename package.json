@@ -1,0 +1,10 @@
+{
+  "name": "cognito-react-swagger",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "cdk",
+    "frontend"
+  ],
+  "license": "MIT"
+}
